@@ -66,6 +66,6 @@ In the past I was doing a Social Media Marketing Agency as a side project.
 
 This is a business where you sell marketing services to businesses.
 
-I used `D7 Lead Finder` to scrape large amounts of data on used car dealerships.
+I used `D7 Lead Finder` to scrape large (and publicly available!!) amounts of data on used car dealerships.
 
 I then used these scripts to rapidly qualify & message those dealerships, while avoiding a ban on Facebook for spamming messages to people due to using the same messages and/or sending messages too quickly.
